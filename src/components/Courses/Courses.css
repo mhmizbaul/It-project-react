@@ -1,0 +1,22 @@
+.bg{
+    height: 100vh;
+    padding: 5px;
+    background-color:  #AAAAAA;
+}
+
+.cart{
+    padding: 10px;
+    height: 320px;
+    border: 2px solid navy;
+    margin-bottom: 60px;
+    border-radius: 15px;
+    background-color: #A4DAE8;
+}
+
+.cart:hover{
+    background-color: rgb(223, 189, 255);
+}
+
+.btn{
+    margin-right: 10px;
+}

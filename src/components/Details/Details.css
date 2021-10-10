@@ -1,0 +1,40 @@
+.details{
+    background-color:#F1F2F4;
+}
+.titel{
+    color: black;
+}
+.image img{
+    margin-top: 30px ;
+    width: 200px;
+    border-radius: 10px;
+}
+.card{
+    background-color: #AAAAAA;
+    margin: 10px;
+    height: 100%; 
+    border-radius: 10px;
+}
+
+.bg{
+    margin-bottom: 50px;
+}
+
+.view {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.view p{
+    margin-right: 40px;
+}
+.button{
+    margin: auto;
+    width: 200px;
+}
+.icon{
+    margin-right: 5px;
+}
+
+

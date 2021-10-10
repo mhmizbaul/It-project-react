@@ -1,0 +1,35 @@
+.banner {
+  background-color: #385c79;
+  height: 780px;
+  /* width: 100%; */
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+.title {
+  color:#97d7e7 ;
+  font-weight: bold;
+  font-size: 59px;
+}
+.about-btn {
+  background-color: #8a8787;
+  outline: none;
+  border: none;
+  padding: 17px 34px;
+  color: white;
+  border-radius: 15px;
+}
+.img{
+  width: 500px;
+  border-radius: 10px;
+}
+.btn{
+  background-color:#EEAD8B;
+}
+
+.search-br{
+margin-left: 10px;
+}
